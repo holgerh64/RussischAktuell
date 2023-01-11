@@ -23,3 +23,35 @@ RAstart.ps1:
  
 -------------------------------------------------------------------------
  
+-------------------------------------------------------------------------
+
+Vokabeltrainer
+==============
+
+Um schnell mal zwischendurch Vokabeln zu wiederholen dient diese kleine 
+Access-Datenbank.
+Aus der Lexik-Ansicht in Russisch aktuell können Vokabeln kopiert werden.
+(Dropper)
+Diese werden dann halbautomatisch in Lernkarten aufgeteilt. (Tester)
+Dabei wird russischer Text als russische Voabel angenommen und deutscher
+Text als deren Übersetzung. Da manchmal Erläuterungen auf russisch in
+der Übersetzung auftauchen, ist ein EIngreifen erforderliche.
+Die so bearbeitetetn Vokablen können in Listen sortiert in die Gesamt-Vokabelliste
+aufgenommen werden.
+
+Abfrage
+-------
+
+Bewertung
+---------
+
+Statistik
+---------
+-------------------------------------------------------------------------
+
+ Autor: Holger Husemann <br />
+ Datum: 11.01.2023 <br />
+ 
+-------------------------------------------------------------------------
+ 
+ 
